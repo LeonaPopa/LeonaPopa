@@ -15,5 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonapopa&show_icons=true&locale=en&layout=compact" alt="leonapopa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonapopa&" alt="leonapopa" /></p>
 
